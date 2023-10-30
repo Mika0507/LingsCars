@@ -4,7 +4,7 @@
 
 Nuestro proyecto muestra un diseño de la página web Lings Cars completamente distinto al diseño original. Queriendo hacer énfasis en un estilo moderno y limpio, nos hemos decantado por fondos planos, lineas definidas y limpias para garantizar una sensación de sencillez y eficiencia del producto. La distribución de las páginas han sido redistribuídas para que no se repitan y se han organizado los contenidos para que resulten más fáciles de leer y comprender.
 
-<img src='https://postimg.cc/XZHbZHDP][img]https://i.postimg.cc/XZHbZHDP/Group-22.jpg[/img][/url]' alt='Brand Identity project' width="120" height="120">
+<img src='https://postimg.cc/XZHbZHDP' alt='Brand Identity project' width="120" height="120">
 
 
 ## Demo Lings Cars
@@ -13,7 +13,7 @@ Ejemplos del diseño de la página web:
 
 Escala de grises: 
 
-<img src='https://postimg.cc/S2npc6Bx][img]https://i.postimg.cc/S2npc6Bx/Group-23.jpg[/img][/url]' alt='Muestra de diseñoen escala de grises' width="240" height="360">
+<img src='https://postimg.cc/S2npc6Bx' alt='Muestra de diseñoen escala de grises' width="240" height="360">
 
 Diseño fianal:
 
