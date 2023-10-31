@@ -17,13 +17,13 @@ Escala de grises:
 
 Diseño fianal:
 
-<img src='/.github/images/...' alt='Muestra final del disño' width="120" height="120">
+<img src="https://i.postimg.cc/FzxthxfX/Group-67.jpg" alt='Muestra final del disño' width="120" height="120">
 
 ## Link Final Project
 
 Link directo al prototipo de la página web:
 
-[LingsCars](https://www.)
+[LingsCars](https://www.figma.com/file/ZlwVyaKxsqdW5G3bOoJ6M8/LingCars-Project-F5?type=design&node-id=6-8&mode=design&t=Zeo4YW2KnRLnwzk5-0)
 
 ## 
 
