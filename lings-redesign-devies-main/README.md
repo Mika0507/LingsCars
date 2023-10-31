@@ -17,7 +17,7 @@ Escala de grises:
 
 Diseño fianal:
 
-<img src="https://i.postimg.cc/FzxthxfX/Group-67.jpg" alt='Muestra final del disño' width="120" height="120">
+<img src="https://i.postimg.cc/FzxthxfX/Group-67.jpg" alt='Muestra final del disño' width="240" height="400">
 
 ## Link Final Project
 
